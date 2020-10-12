@@ -1,0 +1,98 @@
+/* Font for title
+font-family: 'Raleway', sans-serif; */
+
+/* Font for other text
+font-family: 'Open Sans', sans-serif; */
+
+body {
+  margin: 0 auto;
+  font-size: 0px;
+}
+.page {
+  width: 1400px;
+  font-family: "Open Sans", sans-serif;
+  margin: 100px auto 36px auto;
+}
+header {
+  width: 409px;
+  height: 150px;
+  margin: 0px auto;
+  text-align: center;
+}
+.title {
+  width: 420px;
+  margin-bottom: 20px;
+}
+hr {
+  width: 64px;
+  height: 1px;
+  border: none;
+  background-color: #e72424;
+}
+.title > h1 {
+  font-family: "Raleway", sans-serif;
+  font-size: 36px;
+  line-height: 42px;
+  font-style: normal;
+  font-weight: normal;
+  margin: 0px;
+}
+.line {
+  border: 1px solid #e72424;
+  width: 62px;
+  height: 0px;
+  margin: 0px auto;
+}
+.description {
+  font-size: 14px;
+  color: #86878b;
+}
+.description > h2 {
+  font-size: 14px;
+  line-height: 19px;
+  font-style: normal;
+  font-weight: normal;
+  margin-top: 32px;
+  margin-left: 12px;
+}
+.thumbnail {
+  border: 1px solid #e72424;
+  border-radius: 50%;
+  width: 69px;
+  height: 69px;
+  margin: 0 auto;
+  padding: 0 auto;
+  margin-bottom: 30px;
+}
+.thumbnail > img {
+  margin-top: 19px;
+}
+.subtitle > h3 {
+  font-size: 20px;
+  line-height: 27px;
+  color: #333333;
+  font-style: normal;
+  font-weight: bold;
+  margin: 0px;
+  margin-bottom: 18px;
+}
+.text {
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #000000;
+}
+main {
+  padding-top: 30px;
+  padding-left: 150px;
+}
+.card {
+  display: inline-block;
+  width: 350px;
+  height: 225px;
+  margin-right: 32px;
+  width: 350px;
+  text-align: center;
+}
