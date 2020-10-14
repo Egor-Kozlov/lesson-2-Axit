@@ -1,1 +1,1 @@
-# https://sweex8.github.io/lesson-2-Axit/
+# https://egor-kozlov.github.io/lesson-2-Axit/
